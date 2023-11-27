@@ -1,0 +1,316 @@
+央视,#genre#
+CCTV1,http://hms304nc1972679586.live.a ... nt_ip=182.149.232.3×tamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+CCTV2,http://hms104nc1972679566.live.a ... nt_ip=112.45.97.120×tamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
+CCTV3,http://hms44nc1972679560.live.ai ... nt_ip=112.45.97.120×tamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
+CCTV4,http://hms284nc1972679584.live.a ... nt_ip=112.45.97.120×tamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
+CCTV5+,http://hms184nc1972679574.live.a ... nt_ip=112.45.97.120×tamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
+CCTV5,http://hms304nc1972679586.live.a ... nt_ip=112.45.97.120×tamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
+CCTV6,http://hms424nc1972679598.live.a ... nt_ip=182.149.232.3×tamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
+CCTV7,http://hms284nc1972679584.live.a ... nt_ip=112.45.97.120×tamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
+CCTV8,http://hms84nc1972679564.live.ai ... nt_ip=182.149.232.3×tamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
+CCTV9,http://hms444nc1972679601.live.a ... nt_ip=112.45.97.120×tamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
+CCTV10,http://hms424nc1972679599.live.a ... nt_ip=182.149.232.3×tamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
+
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV11,http://120.196.232.124:8088/rrs0 ... /3221226714/1.m3u8?
+
+CCTV12,http://hms204nc1972679577.live.a ... ent_ip=59.49.185.88×tamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
+CCTV13,http://hms184nc1972679575.live.a ... nt_ip=112.45.97.120×tamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
+CCTV14,http://hms344nc1972679590.live.a ... ent_ip=59.49.185.88×tamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
+CCTV15,http://hms504nc1972679606.live.a ... ent_ip=59.49.185.88×tamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV16,http://120.196.232.124:8088/rrs0 ... /3221226825/1.m3u8?$8M1080
+CCTV16,http://39.134.24.162/dbiptv.sn.c ... 1226921/index.m3u8?
+
+CCTV17,http://hms224nc1972679578.live.a ... nt_ip=112.45.97.120×tamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
+
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
+CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+
+
+CCTV1,http://39.134.24.162/dbiptv.sn.c ... 21225804/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.c ... 21226195/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.c ... 21226224/index.m3u8
+CCTV4,http://39.134.24.162/dbiptv.sn.c ... 21226191/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.c ... 21226395/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.c ... 21225761/index.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.c ... 21226012/index.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.c ... 21226197/index.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.c ... 21226189/index.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.c ... 21226233/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.c ... 21226193/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.c ... 21225785/index.m3u8
+CCTV4,http://jycb.f3322.net:85/tsfile/ ... live=1&authid=0
+CCTV5+,http://jycb.f3322.net:85/tsfile/ ... live=1&authid=0
+
+
+
+地方,#genre#
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
+浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
+辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
+江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
+广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
+第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
+早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+
+
+江苏卫视,http://39.134.24.166/dbiptv.sn.c ... 21226200/index.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.c ... 21226205/index.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.c ... 21225796/index.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.c ... 21225802/index.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/ ... c4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+
+深圳旁边,#genre#
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
+明珠台,http://r.jdshipin.com/ZQ4kN
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰深圳旁边,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰深圳旁边,http://113.117.74.29:8081/hls/38/index.m3u8
+
+深圳旁边卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+深圳旁边J2频道,http://r.jdshipin.com/Nr5jq
+RTHK32,https://rthktv32-live.akamaized. ... streamPlaylist.m3u8
+澳门莲花,https://cntv.sbs/tv/lhws.php
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
+
+
+浙江,#genre#
+义乌新闻综合,https://44911.hlsplay.aodianyun. ... eg_version=mpengine
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+
+浙江钱江都市,http://hw-m-l.cztv.com/channels/ ... 02/1080p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/ ... 03/1080p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/ ... 04/1080p.m3u8?zzhed
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/ ... 05/1080p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/ ... 06/1080p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/ ... 07/1080p.m3u8?zzhed
+浙江国际,http://hw-m-l.cztv.com/channels/ ... 10/1080p.m3u8?zzhed
+之江纪录,http://hw-m-l.cztv.com/channels/ ... 12/1080p.m3u8?zzhed
+
+HTV-2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+HTV-3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+HTV-4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/ ... an1/720p.m3u8?zzhed
+萧山生活频道,http://l.cztvcloud.com/channels/ ... an2/720p.m3u8?zzhed
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
+淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/ ... ou1/720p.m3u8?zzhed
+嵊州新闻综合,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/ ... yu1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/ ... yu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/ ... yu3/720p.m3u8?zzhed
+海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
+海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+移动专区,#genre#
+CCTV1,http://dbiptv.sn.chinamobile.com ... 21226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com ... 21226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com ... 21226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com ... 21226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com ... 21226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com ... 21226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com ... 21226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com ... 21226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com ... 21226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com ... 21226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com ... 21226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com ... 21226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com ... 21226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com ... 21226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com ... 21226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com ... 21225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com ... 21226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com ... 21226198/index.m3u8
+CETV1,http://dbiptv.sn.chinamobile.com ... 21225753/index.m3u8
+CETV2,http://dbiptv.sn.chinamobile.com ... 21225756/index.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com ... 21226226/index.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com ... 21226225/index.m3u8
+浙江卫视,http://dbiptv.sn.chinamobile.com ... 21226199/index.m3u8
+四川卫视,http://dbiptv.sn.chinamobile.com ... 21225768/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com ... 21226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com ... 21226203/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com ... 21226204/index.m3u8
+山西卫视,http://dbiptv.sn.chinamobile.com ... 21225763/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com ... 21226209/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com ... 21226238/index.m3u8
+东南卫视,http://dbiptv.sn.chinamobile.com ... 21225766/index.m3u8
+海南卫视,http://dbiptv.sn.chinamobile.com ... 21225769/index.m3u8
+厦门卫视,http://dbiptv.sn.chinamobile.com ... 21226219/index.m3u8
+河南卫视,http://dbiptv.sn.chinamobile.com ... 21225767/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com ... 21226194/index.m3u8
+河北卫视,http://dbiptv.sn.chinamobile.com ... 21225750/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com ... 21226211/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com ... 21225744/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com ... 21226217/index.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com ... 21226213/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com ... 21226201/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com ... 21226215/index.m3u8
+吉林卫视,http://dbiptv.sn.chinamobile.com ... 21225792/index.m3u8
+广西卫视,http://dbiptv.sn.chinamobile.com ... 21225770/index.m3u8
+江西卫视,http://dbiptv.sn.chinamobile.com ... 21225764/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com ... 21226200/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com ... 21225795/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com ... 21226205/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com ... 21226216/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com ... 21226218/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com ... 21226222/index.m3u8
+北京卡酷,http://dbiptv.sn.chinamobile.com ... 21225743/index.m3u8
+冬奥纪实,http://dbiptv.sn.chinamobile.com ... 21226232/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com ... 21226227/index.m3u8
+云南卫视,http://dbiptv.sn.chinamobile.com ... 21225751/index.m3u8
+贵州卫视,http://dbiptv.sn.chinamobile.com ... 21225793/index.m3u8
+宁夏卫视,http://dbiptv.sn.chinamobile.com ... 21225748/index.m3u8
+甘肃卫视,http://dbiptv.sn.chinamobile.com ... 21225754/index.m3u8
+西藏卫视,http://dbiptv.sn.chinamobile.com ... 21226212/index.m3u8
+安多卫视,http://dbiptv.sn.chinamobile.com ... 21226228/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com ... 21226234/index.m3u8
+新疆卫视,http://dbiptv.sn.chinamobile.com ... 21225747/index.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com ... 21226214/index.m3u8
+延边卫视,http://dbiptv.sn.chinamobile.com ... 21226220/index.m3u8
+内蒙古卫视,http://dbiptv.sn.chinamobile.com ... 21225786/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com ... 21226234/index.m3u8
+电视指南,http://dbiptv.sn.chinamobile.com ... 21226987/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com ... 21226984/index.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com ... 21226950/index.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com ... 21226953/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com ... 21226956/index.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com ... 21226959/index.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com ... 21226969/index.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com ... 21226972/index.m3u8
+兵器科技,http://dbiptv.sn.chinamobile.com ... 21226975/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com ... 21226978/index.m3u8
+央视文化精品,http://dbiptv.sn.chinamobile.com ... 21226981/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com ... 21226951/index.m3u8
+哒啵赛事,http://dbiptv.sn.chinamobile.com ... 21226954/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com ... 21226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com ... 21226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com ... 21226465/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com ... 21225821/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com ... 21226229/index.m3u8
+陕西一套,http://dbiptv.sn.chinamobile.com ... 4/3221226357/1.m3u8
+陕西二套,http://dbiptv.sn.chinamobile.com ... 4/3221226358/1.m3u8
+陕西三套,http://dbiptv.sn.chinamobile.com ... 4/3221226359/1.m3u8
+陕西四套,http://dbiptv.sn.chinamobile.com ... 4/3221226360/1.m3u8
+陕西五套,http://dbiptv.sn.chinamobile.com ... 4/3221226361/1.m3u8
+陕西六套,http://dbiptv.sn.chinamobile.com ... 4/3221226362/1.m3u8
+陕西七套,http://dbiptv.sn.chinamobile.com ... 4/3221226363/1.m3u8
+陕西八套,http://dbiptv.sn.chinamobile.com ... 4/3221226364/1.m3u8
+西安新闻综合,http://dbiptv.sn.chinamobile.com ... 4/3221226366/1.m3u8
+西安都市,http://dbiptv.sn.chinamobile.com ... 4/3221226367/1.m3u8
+西安商务资讯,http://dbiptv.sn.chinamobile.com ... 4/3221226368/1.m3u8
+西安影视,http://dbiptv.sn.chinamobile.com ... 4/3221226369/1.m3u8
+西安丝路,http://dbiptv.sn.chinamobile.com ... 4/3221226370/1.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com ... 21226371/index.m3u8
+咸阳-1,http://dbiptv.sn.chinamobile.com ... 21226372/index.m3u8
+杨凌-1,http://dbiptv.sn.chinamobile.com ... 21226373/index.m3u8
+延安-1,http://dbiptv.sn.chinamobile.com ... 4/3221226374/1.m3u8
+延安-2,http://dbiptv.sn.chinamobile.com ... 4/3221226375/1.m3u8
+铜川-1,http://dbiptv.sn.chinamobile.com ... 4/3221226379/1.m3u8
+铜川-2,http://dbiptv.sn.chinamobile.com ... 4/3221226380/1.m3u8
+宝鸡-1,http://dbiptv.sn.chinamobile.com ... 4/3221226383/1.m3u8
+宝鸡-2,http://dbiptv.sn.chinamobile.com ... 4/3221226384/1.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com ... 4/3221226390/1.m3u8
+宁强-2,http://dbiptv.sn.chinamobile.com ... 4/3221226389/1.m3u8
+汉中-1,http://dbiptv.sn.chinamobile.com ... 4/3221226331/1.m3u8
+汉中-3,http://dbiptv.sn.chinamobile.com ... 21225991/index.m3u8
+佛坪-1,http://dbiptv.sn.chinamobile.com ... 4/3221226454/1.m3u8
+镇巴-1,http://dbiptv.sn.chinamobile.com ... 4/3221226457/1.m3u8
+略阳-1,http://dbiptv.sn.chinamobile.com ... 4/3221226322/1.m3u8
+西乡-1,http://dbiptv.sn.chinamobile.com ... 21226556/index.m3u8
+榆林-1,http://dbiptv.sn.chinamobile.com ... 4/3221226377/1.m3u8
+商洛-1,http://dbiptv.sn.chinamobile.com ... 4/3221226378/1.m3u8
+渭南-1,http://dbiptv.sn.chinamobile.com ... 4/3221226376/1.m3u8
+安康-1,http://dbiptv.sn.chinamobile.com ... 4/3221226385/1.m3u8
+纪实人文,http://dbiptv.sn.chinamobile.com ... 21226230/index.m3u8
+山东教育卫视,http://dbiptv.sn.chinamobile.com ... 21226238/index.m3u8
+置业频道,http://dbiptv.sn.chinamobile.com ... 21226241/index.m3u8
+京视剧场,http://dbiptv.sn.chinamobile.com ... 21226242/index.m3u8
+家庭理财,http://dbiptv.sn.chinamobile.com ... 21226244/index.m3u8
+奕坦春秋,http://dbiptv.sn.chinamobile.com ... 21226245/index.m3u8
+发现之旅,http://dbiptv.sn.chinamobile.com ... 21226235/index.m3u8
+老故事,http://dbiptv.sn.chinamobile.com ... 21226236/index.m3u8
